@@ -1,6 +1,8 @@
 # 👨‍💻 Sebastian (Ctrix) Onise
 
-$${\color {lightgreen} As \space Albert \space Einstein \space once \space said,\space the \space definition \space of \space insanity \space is \space 'doing \space the \space same \space thing \space over \space and \space over \space again \space and \space expecting \space different \space results.'}$$
+$${\color {lightgreen} As \space Albert \space Einstein \space once \space said,}$$
+
+$${\color {lightgreen} the \space definition \space of \space insanity \space is \space 'doing \space the \space same \space thing \space over \space and \space over \space again \space and \space expecting \space different \space results.'}$$
 ___
 Hey ! 👋
 <br>My name is Sebastian but you can call me Ctrix ! Im a student 👨‍🎓 full-stack developper 👨‍💻
