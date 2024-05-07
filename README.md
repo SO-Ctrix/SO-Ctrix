@@ -1,19 +1,7 @@
 # 👨‍💻 Sebastian (Ctrix) Onise
-$${
-\documentclass{article}
-\usepackage{xcolor}
-
-\begin{document}
-
-\begin{center}
-\textcolor{red}{As Albert Einstein said, the definition of insanity is "doing the same thing over and over again and expecting different results."}
-\end{center}
-
-\end{document}
-}$$
 
 $${\color {lightgreen} As \space Albert \space Einstein \space once \space said,\space the \space definition \space of \space insanity \space is \space 'doing \space the \space same \space thing \space over \space and \space over \space again \space and \space expecting \space different \space results.'}$$
-
+___
 Hey ! 👋
 <br>My name is Sebastian but you can call me Ctrix ! Im a student 👨‍🎓 full-stack developper 👨‍💻
 and an investigator 🕵️ at my spare time !</br>
