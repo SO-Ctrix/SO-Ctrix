@@ -22,7 +22,7 @@ Yes, just a normal guy doing his best to learn and improve ! If you have any adv
   <a href="https://dev.to/ctrix13"><img height="32" width="32"   
   src="https://cdn.simpleicons.org/devdotto/white"/>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img height="32" width="32" 
+  <a href="https://ko-fi.com/ctrix13"><img height="32" width="32" 
   src="https://cdn.simpleicons.org/kofi" />
 </p>
 
