@@ -12,19 +12,21 @@ Hey ! 👋
 and an investigator 🕵️ at my spare time !</br>
 <br>As you can imagine, I think out of the box, I don't like receiving information that has already been processed. Or which I can't check.</br>
 <br>What ? Disappointed ? I said different thinking, not genius or reinventing the wheel. </br>
-Yes, just a normal guy doing his best to learn and improve ! If you have any advice or tips, I'd love to hear from you ⚡🧠!
-<br>(And no, I don't make 8bit music.👾)</br>
+Yes, just a normal guy doing his best to learn and improve ! If you have any advice or tips, I'd love to hear from you ⚡🧠!  (And no, I don't make 8bit music.👾)
 
 <!-- Socials -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sebastian-onise/">
-    <img alt="LinkedIn" title="My LinkedIn Profile" height="32" width="32"src="https://cdn.simpleicons.org/Linkedin"/>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/Linkedin"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/ctrix13">
-    <img alt="Dev.to" title="My Dev.to Profile" height="32" width="32"src="https://cdn.simpleicons.org/devdotto/white"/>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/devdotto/white"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/ctrix13">
-    <img alt="ko-fi" title="Buy me a Tea !" height="32" width="32"src="https://cdn.simpleicons.org/kofi"/>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/kofi"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:onise.sebastian@gmail.com">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/gmail"/></a>
 </p>
 
 <!-- Badges -->
@@ -41,12 +43,3 @@ ___
 - School projects
 - Cybersecurity & OSINT
 - Ideas & Creations
-
-
-
-
-- 👋 Hi, I’m @Ctrix13
-- 👀 I’m interested in video games and Design 
-- 🌱 I’m currently learning Python and other languages
-- 💞️ I’m looking to collaborate on Video games and other cool stuf like trading bots
-- 📫 How to reach me onise.sebastian@gmail.com
