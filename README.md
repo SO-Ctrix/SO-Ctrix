@@ -75,3 +75,10 @@ ___
 - School projects
 - Cybersecurity & OSINT
 - Ideas & Creations
+
+<!-- SNAKE by Platane // https://github.com/Platane/snk -->
+<picture>
+  <source align="center" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source align="center" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
