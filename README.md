@@ -18,10 +18,10 @@ Yes, just a normal guy doing his best to learn and improve ! If you have any adv
   <a href="https://www.linkedin.com/in/sebastian-onise/">
     <img height="32" width="32" src="https://cdn.simpleicons.org/Linkedin"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/SO-Dev13">
+  <a href="https://dev.to/Ctrix13">
     <img height="32" width="32" src="https://cdn.simpleicons.org/devdotto/white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/SO-Dev13">
+  <a href="https://ko-fi.com/Ctrix13">
     <img height="32" width="32" src="https://cdn.simpleicons.org/kofi"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:onise.sebastian@gmail.com">
