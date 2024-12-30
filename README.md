@@ -16,7 +16,7 @@ Yes, just a normal guy doing his best to learn and improve ! If you have any adv
 <!-- Socials // https://simpleicons.org/ -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sebastian-onise/">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/Linkedin"/></a>
+    <img height="32" width="32" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/Ctrix13">
     <img height="32" width="32" src="https://cdn.simpleicons.org/devdotto/white"/></a>
