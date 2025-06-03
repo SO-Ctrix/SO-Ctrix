@@ -1,13 +1,8 @@
 # 👨‍💻 Sebastian (Ctrix) Onise
 
-<!-- Quote LaTex -->
-$$
-\text{\color{lightgreen} As Albert Einstein once said, the definition of insanity is:}
-$$
+<!-- Quote LaTex for color not working anymore https://github.com/orgs/community/discussions/31570#discussioncomment-13339168 -->
 
-$$
-\text{\color{lightgreen} Doing the same thing over and over again and expecting different results.}
-$$
+> **As Albert Einstein once said**, the definition of insanity is : *Doing the same thing over and over again and expecting different results.*
 
 ___
 
