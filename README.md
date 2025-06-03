@@ -1,10 +1,10 @@
 # 👨‍💻 Sebastian (Ctrix) Onise
 
 <!-- Quote LaTex -->
-$$
-\text{\color{lightgreen} As Albert Einstein once said: "Doing the same thing over and over again and expecting different results."}
-$$
-
+<span style="color: lightgreen;">
+As Albert Einstein once said, the definition of insanity is:  
+Doing the same thing over and over again and expecting different results.
+</span>
 ___
 
 <!-- Introduction -->
