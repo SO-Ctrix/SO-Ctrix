@@ -2,12 +2,9 @@
 
 <!-- Quote LaTex -->
 $$
-\text{\color{lightgreen} As Albert Einstein once said, the definition of insanity is:}
+\text{\color{lightgreen} As Albert Einstein once said: "Doing the same thing over and over again and expecting different results."}
 $$
 
-$$
-\text{\color{lightgreen} Doing the same thing over and over again and expecting different results.}
-$$
 ___
 
 <!-- Introduction -->
