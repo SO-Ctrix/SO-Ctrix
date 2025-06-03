@@ -1,9 +1,13 @@
 # 👨‍💻 Sebastian (Ctrix) Onise
 
 <!-- Quote LaTex -->
-$${\color{lightgreen} As \space Albert \space Einstein \space once \space said, \space the \space definition \space of \space insanity \space is \space :}$$
+$$
+\text{\color{lightgreen} As Albert Einstein once said, the definition of insanity is:}
+$$
 
-$${\color{lightgreen} Doing \space the \space same \space thing \space over \space and \space over \space again \space and \space expecting \space different \space results.}$$
+$$
+\text{\color{lightgreen} Doing the same thing over and over again and expecting different results.}
+$$
 ___
 
 <!-- Introduction -->
